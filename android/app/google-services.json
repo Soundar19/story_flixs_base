@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590201648397",
+    "project_id": "login-774bb",
+    "storage_bucket": "login-774bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590201648397:android:98390cbc6ed738f7ad2c44",
+        "android_client_info": {
+          "package_name": "com.example.story_flixs_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590201648397-b34snj4514ifp369c31hr47gl79ff6a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlzTdBKsFLeetWiFrktPsIL1XxbQ2-ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590201648397-b34snj4514ifp369c31hr47gl79ff6a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
